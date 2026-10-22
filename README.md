@@ -39,3 +39,5 @@ The analysis and visualizations help summarize important patterns in India's une
 
 🎯 Project Objective
 The main objective of this project is to explore unemployment data in India, identify meaningful patterns, and present the findings through data visualization. This project demonstrates practical skills in data cleaning, exploratory data analysis, and graphical representation of real-world data.
+
+# Task 2: Sales Prediction Primary Visual: 📈 Advertising Spend vs. Sales Impact text: Sales Correlation Across TV, Radio, and Newspaper Advertising Channels Secondary Visual 
