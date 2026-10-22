@@ -5,7 +5,7 @@ CodeAlpha Data Science Internship projects:
 Tech Stack: Python, Pandas, Scikit-learn, Seaborn, Matplotlib.
 
 # Task 1: Unemployment Analysis in India: COVID-19 Impact on Unemployment Rates 
-<img width="827" height="373" alt="Screenshot 2026-10-22 185223" src="https://github.com/user-attachments/assets/55a71639-b613-4c50-ae82-08aeacbfacb0" />
+<img width="839" height="367" alt="Screenshot 2026-10-22 215503" src="https://github.com/user-attachments/assets/92b238dc-e69a-432b-b681-f0b1a2a16227" />
 <img width="842" height="338" alt="Screenshot 2026-10-22 185248" src="https://github.com/user-attachments/assets/c911f9b4-7ac6-4854-916c-3ecd54ff5e57" />
 <img width="836" height="292" alt="Screenshot 2026-10-22 215307" src="https://github.com/user-attachments/assets/877be8b4-5514-4991-8799-18c69999512d" />
 <img width="839" height="356" alt="Screenshot 2026-10-22 215141" src="https://github.com/user-attachments/assets/82dacb95-ae5f-44af-b466-e4ef629792fa" />
