@@ -42,9 +42,7 @@ The analysis and visualizations help summarize important patterns in India's une
 The main objective of this project is to explore unemployment data in India, identify meaningful patterns, and present the findings through data visualization. This project demonstrates practical skills in data cleaning, exploratory data analysis, and graphical representation of real-world data.
 
 # Task 2: Sales Prediction : Advertising Impact Analysis: Modeling Sales Across TV, Radio & Newspaper Channels
-<img width="467" height="298" alt="Screenshot 2026-10-22 185400" src="https://github.com/user-attachments/assets/83bb8205-5e26-4e8b-82e8-f04d735013c6" />
-<img width="485" height="296" alt="Screenshot 2026-10-22 185411" src="https://github.com/user-attachments/assets/48157049-9430-4421-9c73-b0a7f48fa106" />
-<img width="445" height="297" alt="Screenshot 2026-10-22 185419" src="https://github.com/user-attachments/assets/2f5a2856-5918-4b3c-bdf1-050e7fde1e33" />
+<img width="403" height="286" alt="Screenshot 2026-10-22 215748" src="https://github.com/user-attachments/assets/c1af8299-d5e5-4079-82a2-ae50b7c9b256" /><img width="398" height="290" alt="Screenshot 2026-10-22 215757" src="https://github.com/user-attachments/assets/7cbf5cab-dc86-4cdf-9539-74af753a7927" /><img width="395" height="284" alt="Screenshot 2026-10-22 215807" src="https://github.com/user-attachments/assets/ad7c27a9-676b-443f-8a2c-aeb69cc2d778" />
 
 📊 Sales Prediction and Advertising Impact Analysis
 
