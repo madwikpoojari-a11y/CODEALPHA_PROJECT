@@ -9,8 +9,6 @@ Tech Stack: Python, Pandas, Scikit-learn, Seaborn, Matplotlib.
 <img width="842" height="338" alt="Screenshot 2026-10-22 185248" src="https://github.com/user-attachments/assets/c911f9b4-7ac6-4854-916c-3ecd54ff5e57" />
 <img width="669" height="323" alt="Screenshot 2026-10-22 185301" src="https://github.com/user-attachments/assets/2f11680c-07c5-45b9-94eb-9a8196eec9c4" />
 
-📊 Unemployment Analysis in India
-
 This project focuses on analyzing unemployment trends in India using Python and data visualization techniques. The dataset is cleaned, processed, and analyzed to understand changes in unemployment rates over time and across different regions. Graphs are used to present the findings in a clear and understandable way.
 
 1. 📈 Unemployment Rate Trends in India
