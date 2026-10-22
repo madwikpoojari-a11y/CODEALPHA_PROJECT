@@ -44,3 +44,31 @@ The main objective of this project is to explore unemployment data in India, ide
 <img width="467" height="298" alt="Screenshot 2026-10-22 185400" src="https://github.com/user-attachments/assets/83bb8205-5e26-4e8b-82e8-f04d735013c6" />
 <img width="485" height="296" alt="Screenshot 2026-10-22 185411" src="https://github.com/user-attachments/assets/48157049-9430-4421-9c73-b0a7f48fa106" />
 <img width="445" height="297" alt="Screenshot 2026-10-22 185419" src="https://github.com/user-attachments/assets/2f5a2856-5918-4b3c-bdf1-050e7fde1e33" />
+
+📊 Sales Prediction and Advertising Impact Analysis
+
+This project focuses on analyzing the impact of advertising expenditures across different media channels on total sales using Python and data visualization techniques. The dataset is processed and analyzed to evaluate the effectiveness of each marketing platform and guide optimal budget allocation. Graphs are used to present the correlations and findings clearly.
+
+📺 TV Advertising vs. Sales Analysis
+
+This scatter plot illustrates the relationship between TV advertising budgets and sales performance. It reveals a strong, direct positive linear trend, where increases in TV ad spend consistently drive higher product sales. TV advertising serves as the primary and most reliable driver of sales volume in the dataset.  
+
+📻 Radio Advertising vs. Sales Analysis
+
+This analysis examines how investment in radio advertising influences sales numbers. The visualization shows a moderate positive correlation, indicating that radio promotions effectively support revenue growth. While it exhibits higher data variance than TV, it functions as a highly valuable complementary channel.  
+
+📰 Newspaper Advertising vs. Sales Analysis
+
+This section explores the direct connection between newspaper ad spend and sales outcomes. The resulting plot demonstrates a weak and widely scattered distribution with virtually no linear relationship. The lack of a clear upward trend indicates that spending on newspaper ads alone does not reliably increase sales.  
+
+💡 Key Insights
+
+The analysis and visualizations summarize critical patterns in advertising effectiveness, including:
+Demonstrating a strong positive correlation between TV ad spend and sales growth.  
+Identifying radio advertising as an effective secondary channel with moderate sales impact.  
+Revealing negligible direct returns from newspaper advertising spend.  
+Assisting businesses in identifying the most cost-effective channels to optimize marketing ROI.
+Presenting complex advertising response data through simple and readable scatter plots.  
+
+🎯 Project Objective
+The main objective of this project is to analyze multi-channel advertising data, determine which media channels drive the greatest sales returns, and present actionable marketing insights through clear data visualizations. This project demonstrates practical skills in exploratory data analysis (EDA), correlation assessment, and budget optimization modeling.
