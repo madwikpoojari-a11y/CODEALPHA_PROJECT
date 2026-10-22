@@ -43,7 +43,9 @@ The main objective of this project is to explore unemployment data in India, ide
 
 # Task 2: Sales Prediction : Advertising Impact Analysis: Modeling Sales Across TV, Radio & Newspaper Channels
 <img width="403" height="286" alt="Screenshot 2026-10-22 215748" src="https://github.com/user-attachments/assets/c1af8299-d5e5-4079-82a2-ae50b7c9b256" />
+
 <img width="398" height="290" alt="Screenshot 2026-10-22 215757" src="https://github.com/user-attachments/assets/969ac438-7e54-493b-9716-74e8f03c59c1" />
+
 <img width="395" height="284" alt="Screenshot 2026-10-22 215807" src="https://github.com/user-attachments/assets/d809eacf-7073-4de4-865b-c3800e58c5a2" />
 
 📊 Sales Prediction and Advertising Impact Analysis
